@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901953110176",
+    "firebase_url": "https://uygulama-7936e.firebaseio.com",
+    "project_id": "uygulama-7936e",
+    "storage_bucket": "uygulama-7936e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901953110176:android:cb9115d552429854",
+        "android_client_info": {
+          "package_name": "com.elifhazal.uygulama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901953110176-ogl7fsgmobubjcqc0kpg08pvn8uf1fe8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elifhazal.uygulama",
+            "certificate_hash": "0071d9737acb9e6fc5e3de1b2087b51c1d938ec8"
+          }
+        },
+        {
+          "client_id": "901953110176-vm4qfhnvltsu8qlai089ldp0oir6b4mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJZpgyyq2ZCbrFfhAGY3p7b4v9_LaLsP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901953110176-vm4qfhnvltsu8qlai089ldp0oir6b4mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
